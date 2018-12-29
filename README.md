@@ -2,6 +2,7 @@
 deeplearing.ai - Convolutional Neural Networks
 ## Foundations of Convolutional Neural Networks
    Convolutional Model: step by step
+   
    Convolutional Model: Application
 ## Deep convolutional models: case studies
    The happy house
